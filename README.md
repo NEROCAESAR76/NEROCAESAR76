@@ -19,7 +19,7 @@ Final year Computer Science student at UNIDA Gontor with a strong passion for Ar
 ## 🛠 Tech Stack
 *   **Languages:** Python, SQL
 *   **Libraries:** TensorFlow, PyTorch, Pandas, NumPy, Scikit-Learn, Librosa
-*   **Tools:** Git, Jupyter Notebook, VS Code, Google Colab
+*   **Tools:** Git, Jupyter Notebook, VS Code, Google Colab, kaggle
 
 ## 🔍 Research Interests
 *   Automated classification systems.
