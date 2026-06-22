@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nero Caesar Suprobo! 👋</h1>
 
-<!--
-**NEROCAESAR76/NEROCAESAR76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Computer Science Student | Aspiring AI & Machine Learning Engineer</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+Final year Computer Science student at UNIDA Gontor with a strong passion for Artificial Intelligence and Machine Learning. My academic and personal projects focus on **Deep Learning Architectures**, **Semi-supervised Learning**, and **Computer Vision**.
+
+## 🛠 Tech Stack
+*   **Languages:** Python, SQL
+*   **Libraries:** TensorFlow, PyTorch, Pandas, NumPy, Scikit-Learn, Librosa
+*   **Tools:** Git, Jupyter Notebook, VS Code, Google Colab
+
+## 🔍 Research Interests
+*   Automated classification systems.
+*   Pseudo-labeling techniques in semi-supervised learning.
+*   Deep learning models (CNN, LSTM, GRU).
+
+---
+
+## 📈 GitHub Stats
+![Nero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEROCAESAR76&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEROCAESAR76&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+*   **Email:** [nerosuprobo@gmail.com](mailto:nerosuprobo@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/nero-caesar-163498392/](https://www.linkedin.com/in/nero-caesar-163498392/)
+
+---
+<p align="center"><i>"Bridging the gap between complex algorithms and real-world impact."</i></p>
